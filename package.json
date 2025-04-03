@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "scripts": {
+      "dev": "node blocking_and_non_blocking.js"
+    }
+  }
+  
